@@ -1,6 +1,6 @@
 {
   "name": "detect-emoji-support",
-  "version": "0.1.7",
+  "version": "0.2.0",
   "description": "Detect support for emoji character sets.",
   "main": "lib/index.js",
   "repository": {
